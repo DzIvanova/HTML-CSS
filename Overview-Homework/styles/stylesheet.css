@@ -1,0 +1,28 @@
+h1 {
+	color: #F3BE60; 
+	font-family:Calibri;
+	font-size: 38px;
+}
+body {
+	background-image:url('Picture1.jpg');
+}
+li {
+	list-style-type: square;
+	color: #F3BE60; 
+	font-size: 34px;
+	font-family:Consolas;
+}
+span {
+	color: #FFFFFF;
+	font-family:Calibri;
+}
+div {
+	opacity: 0.8;
+	background: #20201E;
+	color: #FBEEC9;
+	font-size: 24px;
+	border: 1px solid;
+	font-family: Consolas;
+	
+    
+}
