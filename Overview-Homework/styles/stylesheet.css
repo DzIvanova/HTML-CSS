@@ -4,7 +4,7 @@ h1 {
 	font-size: 38px;
 }
 body {
-	background-image:url('Picture1.jpg');
+	background-image:url(../images/Picture1.jpg);
 }
 li {
 	list-style-type: square;
