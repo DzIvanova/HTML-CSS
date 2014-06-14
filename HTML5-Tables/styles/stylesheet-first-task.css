@@ -1,0 +1,12 @@
+table {
+	width: 350px;
+	border: 1px solid;
+	border-color: #BAC1C5;
+	font-family: Verdana;
+	font-size: 15px;
+	
+}
+th {
+	font-size: 27px;
+	text-align: left;
+}
