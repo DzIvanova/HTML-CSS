@@ -2,19 +2,31 @@ table, th, td, tr {
 	border: 1px solid black;
 	height: 20%;
 	width: 25%;
+	text-align: center;
+
 }
 td {
 	padding: 5px;
 }
-th {
-	font-size: 50px;
+#th {
+	font-size: 30px;
 }
 body {
 	font-family: Tahoma;
+}
+button {
+	width: 100%;
+	height: 100%;
+	color: #0000EE;
 	font-size: 20px;
+}
+.nestedTable {
+	font-size: 12px;
 }
 #beer {
 	font-size: 30px;
+	text-align: right;
+
 }
 #mainTable {
 	width: 460px;
@@ -26,33 +38,4 @@ body {
 	text-align: center;
 	font-size: 12px;
 	font-weight: bold;
-}
-.top-left {
-vertical-align: top;
-}
-.top-right {
-	vertical-align: top;
-	text-align: right;
-}
-.top-center {
-	vertical-align: top;
-	text-align: center;
-}
-.left {
-	text-align: left;
-}
-.right {
-	text-align: right;;
-}
-.btm-center {
-	vertical-align: bottom;
-	text-align: center;
-}
-.btm-right {
-	vertical-align: bottom;
-	text-align: right;
-}
-.btm-left {
-	vertical-align: bottom;
-	text-align: left;
 }
