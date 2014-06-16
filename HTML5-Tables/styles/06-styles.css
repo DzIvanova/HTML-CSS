@@ -1,4 +1,4 @@
-table, th, td, tr {
+table, td, tr {
 	border: 1px solid black;
 	height: 20%;
 	width: 25%;
@@ -10,6 +10,7 @@ td {
 }
 #th {
 	font-size: 30px;
+	height: 120px;
 }
 body {
 	font-family: Tahoma;
