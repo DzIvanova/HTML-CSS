@@ -1,8 +1,46 @@
-form {
-	background-color: #FFC0CB;
-	width: 25%;
-	height: 20%;
+body {
+	font-family: Helvetica,sans-serif;
+	background-color: #EEEEEE;
+}
+
+h2 {
+	font-size: 16px;
+	color: #234465;
+	font-weight: bold;
 }
 p {
-	font-size: 30px;
+	color: #585858;
+	font-size: 9px;
+}
+h3 {
+	font-size: 17px;
+	color: #585858; 
+}
+span {
+	color: #234465;
+}
+form {
+	width: 300px;
+	padding: 10px;
+	float: left;
+}
+form.login {
+	background-color: #234465; 
+	height: 210px;
+}
+h3.login {
+	color: #FFFFFF;
+}
+button {
+	float: right;
+	padding: 0 25px;
+}
+input {
+	width: 212px; 
+	border: 1px solid #d8d8d8; 
+	font-size: 11px; 
+	color: #888888; 
+	margin-bottom: 10px; 
+	padding: 0 8px; 
+	height: 25px;
 }
